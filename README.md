@@ -1,4 +1,7 @@
 # CodePilot  - Advanced code search tool
+Search multiple sources at once and find solutions to your coding problems. Code examples, issues, questions, docs – everything at your fingertips.
+
+
  Key capabilities
  
  Profiles,
