@@ -1,9 +1,9 @@
 # CodePilot  - Advanced code search tool
-## Key capabilities
-## Profiles
-## Local repository
-## Mutiple Sources
-## Setup profile
+ Key capabilities
+ Profiles
+ Local repository
+ Mutiple Sources
+ Setup profile
 
 Before I do a code search lets go to the profile settings and explore various developer profiles. Profiles basically gives you ability to customize codepilot based on the developer skills. We can choose from existing list or we can modify existing profiles or we can create a new profile of our own. Here you can set programming languages, IDE where you will be primarly developing, frameworks/libraries, databases etc. The result set will be filtered based on the profile we select.
 ### Use cases
